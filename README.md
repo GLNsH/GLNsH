@@ -1,7 +1,7 @@
 # Hi I'm Glensh
 
 ## About Me
-I'm a **Computer Science student** ahd I love building things from scratch to understand how they work.
+I'm a **Computer Science student** and I love building things from scratch to understand how they work.
 - 🔧 Currently learning **C++**, transitioning from ANSI C.
 - 🎮 Developing a **game engine** in C.
 - 🔬 Exploring **OpenGL**.
